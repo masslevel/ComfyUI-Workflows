@@ -1,8 +1,6 @@
 # Just another Wan 2.1 14B text-to-image post
 
----
-
-**tl;dr: Got inspired by Wan 2.1 14B's understanding of materials and lighting for text-to-image. I mainly focused on high resolution and image fidelity (not style or prompt adherence) and here are my results including:
+**tl;dr: Got inspired by Wan 2.1 14B's understanding of materials and lighting for text-to-image. I mainly focused on high resolution and image fidelity (not style or prompt adherence) and here are my results including:**
 - [ComfyUI workflows](https://github.com/masslevel/ComfyUI-Workflows/tree/main/Wan2.1) on GitHub
 - [Original high resolution gallery images](https://drive.google.com/drive/folders/1KgaA9XEnMWK7HzEVYjujJLVOMkGybJ8v?usp=sharing) with ComfyUI metadata on Google Drive
 - The complete gallery on [imgur](https://imgur.com/a/ENoIXR0) in full resolution but compressed without metadata
